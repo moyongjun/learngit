@@ -8,3 +8,4 @@ Creating a new branch is quick AND simple.
 I love Git very much.
 测试分支合并冲突。
 add merge
+test bug fork
